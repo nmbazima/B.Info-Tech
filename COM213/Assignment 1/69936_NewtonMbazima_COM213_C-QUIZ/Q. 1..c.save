@@ -1,0 +1,83 @@
+// /*Below are comments describe the following data types by giving an example of each: float, Char, Int, Bool, Double.
+//
+//Float and Double
+//
+//are used to hold numbers
+//
+//Example Float and Double
+//
+//#include <stdio.h>
+//int main()
+//{
+//    float number1 = 13.5;
+//    double number2 = 12.4;
+//
+//    printf("number1 = %f\n", number1);
+//    printf("number2 = %lf", number2);
+//    return 0;
+//}
+//
+//The difference between Float and Double is the size of Float is 4 bytes and the size of Double
+//is 8 bytes
+//
+//float normalizationFactor = 22.442e2;
+//
+//-------------------------------------------------------------------------------------------------------
+//
+//Char
+//
+//is used to declare character type variables
+//
+//char test = 'h';
+//
+//#include <stdio.h>
+//int main()
+//{
+//    char chr = 'a';
+//    printf("character = %c", chr);
+//
+//    return 0;
+//}
+//
+//
+//-------------------------------------------------------------------------------------------------------
+//Int
+//
+//Integers are whole numbers that can have both 0 and positive or negative values but not decimal values.
+//
+//We can use int for declaring an integer variable.
+//
+//int id;
+//
+//#include <stdio.h>
+//int main()
+//{
+//    int testInteger = 5;
+//    printf("Number = %d", testInteger);
+//    return 0;
+//}
+//
+//id is a variable of type integer
+//
+//the size of int is normally 4 bytes
+//
+//-------------------------------------------------------------------------------------------------------
+//
+//Bool
+//
+//Boolean is known as bool, it is a data type that has one of two possible values,
+//
+//either TRUE or FALSE. It only needs 1 bit and an object declared as type Bool is large enough to store the values ) and 1
+//
+//#include <stdbool.h>
+//#include <stdio.h>
+//int main()
+//{
+//bool a = true;
+//  if(a)
+//    printf("Its ture");
+//return 0;
+//}
+
+
+
