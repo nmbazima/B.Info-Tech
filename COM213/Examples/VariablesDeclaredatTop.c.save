@@ -1,0 +1,18 @@
+#include <stdio.h> 
+// Variable definition: 
+
+extern int a, b; 
+extern int c; 
+extern float f; 
+
+int main () 
+
+{ 
+    // Variable definition: 
+    int a, b; 
+    int c; 
+    float f; 
+    
+    // actual initialization 
+    a =10;
+    
